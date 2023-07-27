@@ -1,0 +1,31 @@
+[
+  {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "product_name": "Sauce Labs Backpack",
+    "product_description": "carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection.",
+    "firstname": "Phuc",
+    "lastname": "Nguyen",
+    "postcode": "98234"
+  },
+
+  {
+    "username": "problem_user",
+    "password": "secret_sauce",
+    "product_name": "Sauce Labs Bike Light",
+    "product_description": "A red light isn't the desired state in testing but it sure helps when riding your bike at night. Water-resistant with 3 lighting modes, 1 AAA battery included.",
+    "firstname": "Thanh",
+    "lastname": "Truc",
+    "postcode": "98123"
+  },
+
+  {
+    "username": "performance_glitch_user",
+    "password": "secret_sauce",
+    "product_name": "Sauce Labs Bolt T-Shirt",
+    "product_description": "Get your testing superhero on with the Sauce Labs bolt T-shirt. From American Apparel, 100% ringspun combed cotton, heather gray with red bolt.",
+    "firstname": "Uyen",
+    "lastname": "Tho",
+    "postcode": "12345"
+  }
+]
